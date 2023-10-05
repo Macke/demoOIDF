@@ -64,6 +64,10 @@ organization="KDDI Corporation"
 
 .# Abstract
 
+
+Blah Blah Blah 
+
+
 This specification defines an extension of OpenID Connect for providing Relying Parties with Verified Claims about End-Users. This extension facilitates the verification of the identity of a natural person.
 
 {mainmatter}
